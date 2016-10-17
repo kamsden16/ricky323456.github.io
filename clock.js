@@ -1,5 +1,5 @@
 //Clock
-setInterval(function()){
+setInterval(function(){
 var d = new Date();
 var h = d.getHours();
 var m=d.getMinutes();
